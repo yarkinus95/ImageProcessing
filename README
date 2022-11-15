@@ -1,2 +1,12 @@
 Image Processing Lecture Examples
+Gamma Dönüşümü [3.0,4.0,5.0]+
+Logaritmik Dönüşüm+
+Negatifini alma+
+Üzerinde metin olan resmin yazılarını netleştirme+
+Gri ölçekli resmi 8,16,24 bite çevir
+Sobel - Prewitt - Robert cross filtreleme
+
+Rayleigh gürültüsünü hangi uygulamalarda kullanıyoruz. Araştır.
+Tuz biber gürültüsü oluştur iki görüntünün histogramını çıkar
+
 YARKIN YORU
