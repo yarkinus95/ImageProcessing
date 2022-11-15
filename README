@@ -9,4 +9,6 @@ Sobel - Prewitt - Robert cross filtreleme
 Rayleigh gürültüsünü hangi uygulamalarda kullanıyoruz. Araştır.
 Tuz biber gürültüsü oluştur iki görüntünün histogramını çıkar
 
+Programın çalışır haldeki  önizleme görüntüsü "preview.jpg" üzerinden  görüntülenebilir.
+
 YARKIN YORU
